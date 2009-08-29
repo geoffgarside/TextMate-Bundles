@@ -1,0 +1,48 @@
+[submodule "Datamapper.tmbundle"]
+	path = Datamapper.tmbundle
+	url = git://github.com/drnic/datamapper-tmbundle.git
+[submodule "GHUnit.tmbundle"]
+	path = GHUnit.tmbundle
+	url = git://github.com/Caged/ghunit-tmbundle.git
+[submodule "GetBundle.tmbundle"]
+	path = GetBundle.tmbundle
+	url = git://github.com/textmate/getbundle.tmbundle.git
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = git://gitorious.org/git-tmbundle/mainline.git
+[submodule "GitHub.tmbundle"]
+	path = GitHub.tmbundle
+	url = git://github.com/drnic/github-tmbundle.git
+[submodule "MacRuby.tmbundle"]
+	path = MacRuby.tmbundle
+	url = git://github.com/drnic/macruby-tmbundle.git
+[submodule "MediaWiki.tmbundle"]
+	path = MediaWiki.tmbundle
+	url = git://github.com/textmate/mediawiki.tmbundle.git
+[submodule "Merb.tmbundle"]
+	path = Merb.tmbundle
+	url = git://github.com/drnic/merb-tmbundle.git
+[submodule "Nu.tmbundle"]
+	path = Nu.tmbundle
+	url = git://github.com/jsallis/nu-tmbundle.git
+[submodule "Ruby C Extensions.tmbundle"]
+	path = Ruby C Extensions.tmbundle
+	url = git://github.com/drnic/ruby-c-extensions-tmbundle.git
+[submodule "Ruby Haml.tmbundle"]
+	path = Ruby Haml.tmbundle
+	url = git://github.com/douglasjarquin/ruby-haml-tmbundle.git
+[submodule "Ruby RSpec.tmbundle"]
+	path = Ruby RSpec.tmbundle
+	url = git://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "Ruby Sass.tmbundle"]
+	path = Ruby Sass.tmbundle
+	url = git://github.com/seaofclouds/sass-textmate-bundle.git
+[submodule "Ruby Shoulda.tmbundle"]
+	path = Ruby Shoulda.tmbundle
+	url = git://github.com/drnic/ruby-shoulda-tmbundle.git
+[submodule "Ruby on Rails.git ndle"]
+	path = Ruby on Rails.git ndle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "SWIG.tmbundle"]
+	path = SWIG.tmbundle
+	url = git://github.com/textmate/swig.tmbundle.git
