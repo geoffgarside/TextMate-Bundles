@@ -49,3 +49,6 @@
 [submodule "Snow Leopard Compatibility.tmbundle"]
 	path = Snow Leopard Compatibility.tmbundle
 	url = git://github.com/infininight/snow-leopard-compatibility.tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = git://github.com/bmabey/cucumber-tmbundle.git
