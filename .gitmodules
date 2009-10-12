@@ -46,3 +46,6 @@
 [submodule "Ruby Haml.tmbundle"]
 	path = Ruby Haml.tmbundle
 	url = git://github.com/handcrafted/handcrafted-haml-textmate-bundle.git
+[submodule "Ruby on Rails.tmbundle"]
+	path = Ruby on Rails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
