@@ -37,9 +37,6 @@
 [submodule "Ruby Shoulda.tmbundle"]
 	path = Ruby Shoulda.tmbundle
 	url = git://github.com/drnic/ruby-shoulda-tmbundle.git
-[submodule "Ruby on Rails.git ndle"]
-	path = Ruby on Rails.git ndle
-	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
 [submodule "SWIG.tmbundle"]
 	path = SWIG.tmbundle
 	url = git://github.com/textmate/swig.tmbundle.git
