@@ -49,3 +49,6 @@
 [submodule "Ruby on Rails.tmbundle"]
 	path = Ruby on Rails.tmbundle
 	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "Doxygen.tmbundle"]
+	path = Doxygen.tmbundle
+	url = git://github.com/textmate/doxygen.tmbundle.git
