@@ -52,3 +52,6 @@
 [submodule "Doxygen.tmbundle"]
 	path = Doxygen.tmbundle
 	url = git://github.com/textmate/doxygen.tmbundle.git
+[submodule "Objective-C.tmbundle"]
+	path = Objective-C.tmbundle
+	url = git://github.com/textmate/objective-c.tmbundle.git
