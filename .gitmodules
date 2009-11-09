@@ -55,3 +55,6 @@
 [submodule "Objective-C.tmbundle"]
 	path = Objective-C.tmbundle
 	url = git://github.com/textmate/objective-c.tmbundle.git
+[submodule "Ragel.tmbundle"]
+	path = Ragel.tmbundle
+	url = git://github.com/textmate/ragel.tmbundle.git
