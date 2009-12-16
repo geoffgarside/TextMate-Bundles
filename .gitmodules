@@ -58,3 +58,6 @@
 [submodule "Ragel.tmbundle"]
 	path = Ragel.tmbundle
 	url = git://github.com/textmate/ragel.tmbundle.git
+[submodule "LDIF.tmbundle"]
+	path = LDIF.tmbundle
+	url = git://github.com/skurfer/LDIF.tmbundle.git
