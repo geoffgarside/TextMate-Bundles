@@ -61,3 +61,6 @@
 [submodule "LDIF.tmbundle"]
 	path = LDIF.tmbundle
 	url = git://github.com/skurfer/LDIF.tmbundle.git
+[submodule "TaskPaper.tmbundle"]
+	path = TaskPaper.tmbundle
+	url = git://github.com/jessmartin/taskpaper-tmbundle.git
