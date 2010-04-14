@@ -64,3 +64,6 @@
 [submodule "Go.tmbundle"]
 	path = Go.tmbundle
 	url = git://github.com/AlanQuatermain/go-tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = git://github.com/aslakhellesoy/cucumber-tmbundle.git
