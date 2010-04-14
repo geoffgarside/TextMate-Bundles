@@ -64,3 +64,6 @@
 [submodule "TaskPaper.tmbundle"]
 	path = TaskPaper.tmbundle
 	url = git://github.com/jessmartin/taskpaper-tmbundle.git
+[submodule "Go.tmbundle"]
+	path = Go.tmbundle
+	url = git://github.com/AlanQuatermain/go-tmbundle.git
