@@ -70,3 +70,6 @@
 [submodule "SCSS.tmbundle"]
 	path = SCSS.tmbundle
 	url = git://github.com/kuroir/SCSS.tmbundle.git
+[submodule "Chef.tmbundle"]
+	path = Chef.tmbundle
+	url = git://github.com/drnic/Chef.tmbundle.git
