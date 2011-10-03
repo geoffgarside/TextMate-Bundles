@@ -73,3 +73,9 @@
 [submodule "Chef.tmbundle"]
 	path = Chef.tmbundle
 	url = git://github.com/drnic/Chef.tmbundle.git
+[submodule "CoffeeScript.tmbundle"]
+	path = CoffeeScript.tmbundle
+	url = git://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "ASCIIDoc.tmbundle"]
+	path = ASCIIDoc.tmbundle
+	url = git://github.com/zuckschwerdt/asciidoc.tmbundle.git
