@@ -55,9 +55,6 @@
 [submodule "Ragel.tmbundle"]
 	path = Ragel.tmbundle
 	url = git://github.com/textmate/ragel.tmbundle.git
-[submodule "LDIF.tmbundle"]
-	path = LDIF.tmbundle
-	url = git://github.com/skurfer/LDIF.tmbundle.git
 [submodule "TaskPaper.tmbundle"]
 	path = TaskPaper.tmbundle
 	url = git://github.com/jessmartin/taskpaper-tmbundle.git
@@ -79,3 +76,6 @@
 [submodule "ASCIIDoc.tmbundle"]
 	path = ASCIIDoc.tmbundle
 	url = git://github.com/zuckschwerdt/asciidoc.tmbundle.git
+[submodule "Javascript-Node.tmbundle"]
+	path = Javascript-Node.tmbundle
+	url = git://github.com/drnic/javascript-node.tmbundle.git
